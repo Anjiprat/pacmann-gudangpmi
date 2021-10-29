@@ -14,7 +14,7 @@ With this dataset, I aimed to create a simple dashboard in Tableau to help centr
 | File      | Description |
 | ----------- | ----------- |
 | Annas-9za3-Project Lab PMI-Milestone3-24oct21.ipynb      | The Jupyter Notebook used to clean, wrangle, and otherwise prepare data for dashboard development inTableau       |
-| Pacmann - PMI Warehouse Demo.twbx   | The Tableau dashboard demo          |
+| Pacmann - PMI Warehouse Demo.twbx   | The Tableau dashboard demo. Also available here: https://public.tableau.com/app/profile/annas7867/viz/Pacmann-PMIWarehouseDemo/WarehouseDashboard?publish=yes          |
 | Laporan Gudang Darurat PMI (s.d. 27 April 2021).csv  | The warehouse dataset from PMI. This dataset is not uploaded as it is confidential. Available upon clearance from Pacmann.         |
 | COVID-19 di Indonesia @kawalcovid19.xlsx   | COVID-19 dataset           |
 | df_item_sort.csv  | Manually categorized item names. A key dataset to be merged with the warehouse dataset.         |
