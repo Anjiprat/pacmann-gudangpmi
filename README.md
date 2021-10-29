@@ -1,5 +1,5 @@
 # pacmann-gudangpmi
-An analytics project using Palang Merah Indonesia's warehouse shipment data.
+An analytics project from Pacmann using Palang Merah Indonesia's warehouse shipment data.
 
 
 # Background
@@ -11,3 +11,10 @@ With this dataset, I aimed to create a simple dashboard in Tableau to help centr
 
 # File descriptions
 
+| File      | Description |
+| ----------- | ----------- |
+| Annas-9za3-Project Lab PMI-Milestone3-24oct21.ipynb      | The Jupyter Notebook used to clean, wrangle, and otherwise prepare data for dashboard development inTableau       |
+| Pacmann - PMI Warehouse Demo.twbx   | The Tableau dashboard demo          |
+| Laporan Gudang Darurat PMI (s.d. 27 April 2021).csv  | The warehouse dataset from PMI. Available upon clearance from Pacmann.         |
+| COVID-19 di Indonesia @kawalcovid19.xlsx   | COVID-19 dataset           |
+| df_item_sort.csv  | Manually categorized item names. A key dataset to be merged with the warehouse dataset.         |
