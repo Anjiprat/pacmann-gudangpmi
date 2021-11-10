@@ -18,7 +18,7 @@ With this dataset, I aimed to create a simple dashboard in Tableau to help PMI's
 | df_item_sort.csv  | Manually categorized item names. A key dataset to be merged with the warehouse dataset.         |
 | df_covid_merged.csv  | The final covid-19 cases dataset used for the Tableau dashboard        |
 
-# File available upon requests
+# Files available upon requests
 The table below are for files that are crucial in the reproduction of this dashboard, buat which are confidential. They may be made available upon contact.
 
 | File      | Description |
